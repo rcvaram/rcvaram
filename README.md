@@ -1,7 +1,7 @@
 
 ### Hi there!!! I'm Sivaram  <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
-[![HitCount](http://hits.dwyl.com/rcvaram/rcvaram.svg)](http://hits.dwyl.com/rcvaram/rcvaram)
+[![HitCount](http://hits.dwyl.com/rcvaram/Hacktoberfest2019.svg)](http://hits.dwyl.com/rcvaram/Hacktoberfest2019)
 
 Gist About me
 
