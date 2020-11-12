@@ -1,18 +1,14 @@
 
 ### Hi there!!! I'm Sivaram  <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
-[![HitCount](http://hits.dwyl.com/rcvaram/wolf_scanner.svg)](http://hits.dwyl.com/rcvaram/wolf_scanner)
+## Who I am
 
-Gist About me
-
+- A passionate team player who has gained domain knowledge and experience on backend development and computer vision willing to apply them in challenging tech-projects.
 - 🎤 I am an undergraduate Department of Computer Science and Engineering, University of Moratuwa
 - 💬 Actively writing blogs [Check it Out!](https://medium.com/@rcvaram)
 - 📬 How to reach me: <a href="mailto:cvaram96@gmail.com">Let's get in touch!</a>
 
 
-## Who I am
-
-A passionate team player who has gained domain knowledge and experience on backend development and computer vision willing to apply them in challenging tech-projects.
 
 ## ✏️ Recent Blog
 
