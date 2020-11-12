@@ -10,9 +10,8 @@ Gist About me
 - 📬 How to reach me: <a href="mailto:cvaram96@gmail.com">Let's get in touch!</a>
 
 
-###
-Dedicated professional with hands-on personnel management experience, Mathematics and Computer Science and Engineering knowledge that blends seamlessly into a position such as Computer Engineer. Adept at addressing sensitive issues and finishing
-projects before timeline. 
+### Who I am
+A passionate team player who has gained domain knowledge and experience on backend development and computer vision willing to apply them in challenging tech-projects.
 
 ## ✏️ Recent Blog
 
@@ -21,5 +20,5 @@ projects before timeline.
 - <a href='https://medium.com/%E0%AE%A4%E0%AE%B4%E0%AE%B2%E0%AE%BF/what-how-in-spring-boot-authentication-52ecd1514b2c' target='_blank'>Spring boot Authentication</a>
 - <a href='https://medium.com/analytics-vidhya/creating-own-network-scanner-using-python-f11a50a5ff77' target='_blank'>Netwrok Scanner</a> 
 
-Happy coding !!
+Happy coding !!!
 
