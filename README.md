@@ -11,6 +11,7 @@ Gist About me
 
 
 ### Who I am
+
 A passionate team player who has gained domain knowledge and experience on backend development and computer vision willing to apply them in challenging tech-projects.
 
 ## ✏️ Recent Blog
