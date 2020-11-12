@@ -10,7 +10,7 @@ Gist About me
 - 📬 How to reach me: <a href="mailto:cvaram96@gmail.com">Let's get in touch!</a>
 
 
-### Who I am
+## Who I am
 
 A passionate team player who has gained domain knowledge and experience on backend development and computer vision willing to apply them in challenging tech-projects.
 
