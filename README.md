@@ -4,8 +4,9 @@
 ## Who I am
 
 - A passionate team player who has gained domain knowledge and experience on backend development and computer vision willing to apply them in challenging tech-projects.
-- 🎤 I am an undergraduate of Department of Computer Science and Engineering, University of Moratuwa
+- 🎤 Undergraduate of Department of Computer Science and Engineering, University of Moratuwa
 - 💬 Actively writing blogs [Check it Out!](https://medium.com/@rcvaram)
+-  💬 Actively on [Stackoverflow](https://stackoverflow.com/users/12894468/rcvaram?tab=profile)
 - 📬 How to reach me: <a href="mailto:cvaram96@gmail.com">Let's get in touch!</a>
 
 
