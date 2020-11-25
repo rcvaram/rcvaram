@@ -9,7 +9,6 @@
 -  💬 Actively on [Stackoverflow](https://stackoverflow.com/users/12894468/rcvaram?tab=profile)
 - 📬 How to reach me: <a href="mailto:cvaram96@gmail.com">Let's get in touch!</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcvaram)](https://github.com/rcvaram/github-readme-stats)
 
 
 ## ✏️ Recent Blog
@@ -18,6 +17,11 @@
 - <a href='https://medium.com/%E0%AE%A4%E0%AE%B4%E0%AE%B2%E0%AE%BF/documenting-spring-boot-api-using-swagger2-14926e8e20a4' target='_blank'> Swagger2 for Spring boot API</a>
 - <a href='https://medium.com/%E0%AE%A4%E0%AE%B4%E0%AE%B2%E0%AE%BF/what-how-in-spring-boot-authentication-52ecd1514b2c' target='_blank'>Spring boot Authentication</a>
 - <a href='https://medium.com/analytics-vidhya/creating-own-network-scanner-using-python-f11a50a5ff77' target='_blank'>Netwrok Scanner</a> 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcvaram&layout=compact)](https://github.com/rcvaram/github-readme-stats)
+
+
 
 [![Sivaram Rasathurai's github stats](https://github-readme-stats.vercel.app/api?username=rcvaram&count_private=true&show_icons=true&theme=dracula)](https://github.com/rcvaram/github-readme-stats)
 
