@@ -19,7 +19,10 @@
 
 <a href="https://stackexchange.com/users/15591403/rcvaram"><img src="https://stackexchange.com/users/flair/15591403.png" width="400" height="60" alt="profile for rcvaram on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for rcvaram on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcvaram&layout=compact&count_private=true&show_icons=true&theme=dracula)](https://github.com/rcvaram/github-readme-stats)
- [![Sivaram Rasathurai's github stats](https://github-readme-stats.vercel.app/api?username=rcvaram&count_private=true&show_icons=true&theme=dracula)](https://github.com/rcvaram/github-readme-stats)
 
+
+<div>
+ [![Sivaram Rasathurai's github stats](https://github-readme-stats.vercel.app/api?username=rcvaram&count_private=true&show_icons=true&theme=dracula)](https://github.com/rcvaram/github-readme-stats)
+</div>
 Happy coding !!!
 
