@@ -6,8 +6,7 @@
 - A passionate team player who has gained domain knowledge and experience on backend development and computer vision willing to apply them in challenging tech-projects.
 - 🎤 Undergraduate of Department of Computer Science and Engineering, University of Moratuwa
 - 💬 Actively writing blogs [Check it Out!](https://medium.com/@rcvaram)
--  <a href="https://stackexchange.com/users/15591403/rcvaram"><img src="https://stackexchange.com/users/flair/15591403.png" width="208" height="58" alt="profile for rcvaram on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for rcvaram on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a> Actively on [Stackoverflow](https://stackoverflow.com/users/12894468/rcvaram?tab=profile)
-
+-  <a href="https://stackexchange.com/users/15591403/rcvaram"><img src="https://stackexchange.com/users/flair/15591403.png" width="300" height="30" alt="profile for rcvaram on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for rcvaram on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 - 📬 How to reach me: <a href="mailto:cvaram96@gmail.com">Let's get in touch!</a>
 
 
