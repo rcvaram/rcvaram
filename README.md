@@ -1,5 +1,5 @@
 
-### Hi there!!! I'm Sivaram  <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+### Hi there!!! I'm Sivaram Rasathurai <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
 ## Who I am
 
