@@ -33,3 +33,13 @@ Happy coding !!!
 [![Twitter Badge](https://img.shields.io/twitter/follow/rcvaram?style=social)](https://twitter.com/rcvaram)
 [![GitHub Badge](https://img.shields.io/github/followers/rcvaram?label=Follow%20%40rcvaram&style=social)](https://github.com/rcvaram)
 
+
+<!--- 
+Profile Inspiration -
+https://github.com/christina-ml/christina-ml/blob/main/README.md
+https://dev.to/diogorodrigues/creating-amazing-github-profiles-readme-5h31
+
+Make buttons - https://shields.io/
+Custom Logos - https://simpleicons.org/
+-->
+
