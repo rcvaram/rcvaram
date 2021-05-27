@@ -28,4 +28,8 @@
 
 
 Happy coding !!!
+### Connect with me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sivaramrasathurai/)
+[![Twitter Badge](https://img.shields.io/twitter/follow/rcvaram?style=social)](https://twitter.com/rcvaram)
+[![GitHub Badge](https://img.shields.io/github/followers/rcvaram?label=Follow%20%40christina-ml&style=social)](https://github.com/rcvaram)
 
