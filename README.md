@@ -17,7 +17,8 @@
 - <a href='https://medium.com/%E0%AE%A4%E0%AE%B4%E0%AE%B2%E0%AE%BF/what-how-in-spring-boot-authentication-52ecd1514b2c' target='_blank'>Spring boot Authentication</a>
 - <a href='https://medium.com/analytics-vidhya/creating-own-network-scanner-using-python-f11a50a5ff77' target='_blank'>Netwrok Scanner</a> 
 
-<a href="https://stackexchange.com/users/15591403/rcvaram"><img src="https://stackexchange.com/users/flair/15591403.png" width="400" height="60" alt="profile for rcvaram on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for rcvaram on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
+<a href="https://stackexchange.com/users/15591403/rcvaram"><img src="https://stackexchange.com/users/flair/15591403.png" width="208" height="58" alt="profile for rcvaram on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for rcvaram on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 
 
