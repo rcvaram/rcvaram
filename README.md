@@ -3,8 +3,8 @@
 
 ## Who I am
 
-- A passionate team player who has gained domain knowledge and experience on backend development and computer vision willing to apply them in challenging tech-projects.
-- 🎤 Undergraduate of Department of Computer Science and Engineering, University of Moratuwa
+- A passionate team player who has gained domain knowledge and experience on backend development and am willing to apply them in challenging tech-projects.
+- 🎤 Software Engineer - Sysco LABS
 - 💬 Actively writing blogs [Check it Out!](https://medium.com/@rcvaram)
 - 📬 How to reach me: <a href="mailto:cvaram96@gmail.com">Let's get in touch!</a>
 
