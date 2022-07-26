@@ -3,6 +3,8 @@
 
 ## Who I am
 
+https://stackoverflow.com/feeds/tag/python
+
 - A passionate team player who has gained domain knowledge and experience on backend development and am willing to apply them in challenging tech-projects.
 - 🎤 Software Engineer - Sysco LABS
 - 💬 Actively writing blogs [Check it Out!](https://medium.com/@rcvaram)
