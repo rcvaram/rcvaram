@@ -18,8 +18,7 @@
 - <a href='https://medium.com/analytics-vidhya/creating-own-network-scanner-using-python-f11a50a5ff77' target='_blank'>Netwrok Scanner</a> 
 
 
-<a href="https://stackexchange.com/users/15591403/rcvaram"><img src="https://stackexchange.com/users/flair/15591403.png" width="208" height="58" alt="profile for rcvaram on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for rcvaram on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
-
+![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=12894468)
 
 
  [![Sivaram Rasathurai's github stats](https://github-readme-stats.vercel.app/api?username=rcvaram&count_private=true&show_icons=true&theme=dracula)](https://github.com/rcvaram/github-readme-stats)
