@@ -18,7 +18,7 @@
 - <a href='https://medium.com/analytics-vidhya/creating-own-network-scanner-using-python-f11a50a5ff77' target='_blank'>Netwrok Scanner</a> 
 
 
-![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=12894468)
+[![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=12894468)]
 
 
  [![Sivaram Rasathurai's github stats](https://github-readme-stats.vercel.app/api?username=rcvaram&count_private=true&show_icons=true&theme=dracula)](https://github.com/rcvaram/github-readme-stats)
